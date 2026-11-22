@@ -23,4 +23,4 @@ Python (Pandas), SQL, Power BI (DAX, Slicers, Bookmarks)
 (paste the tree from above)
 
 ## 👤 Author
-Yash Bhaskar Bhangale | [LinkedIn](your-linkedin-link)
+Yash Bhaskar Bhangale | [LinkedIn](your-linkedin-link](https://www.linkedin.com/in/yash-bhangale-6a2558314/))

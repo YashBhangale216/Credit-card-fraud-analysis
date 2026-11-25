@@ -3,7 +3,7 @@
 End-to-end data analysis project: Data Cleaning → EDA → Power BI Dashboard.
 
 ## 📊 Dashboard Preview
-(file:///C:/Users/Yash/Downloads/Credit_Fraud.pdf)
+
 
 ## 🛠️ Tools Used
 Python (Pandas), SQL, Power BI (DAX, Slicers, Bookmarks)

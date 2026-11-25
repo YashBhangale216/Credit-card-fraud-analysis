@@ -3,6 +3,7 @@
 End-to-end data analysis project: Data Cleaning → EDA → Power BI Dashboard.
 
 ## 📊 Dashboard Preview
+https://github.com/YashBhangale216/Credit-card-fraud-analysis/blob/main/Credit%20Fraud.pbix
 https://github.com/YashBhangale216/Credit-card-fraud-analysis/blob/main/Credit_Fraud.pdf
 
 ## 🛠️ Tools Used
